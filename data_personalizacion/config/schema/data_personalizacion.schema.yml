@@ -1,0 +1,21 @@
+action.configuration.activar_personalizacion_action:
+  type: mapping
+  label: 'Activar Personalización'
+  mapping:
+    status:
+      type: bool
+      label: 'Status'
+    message:
+      type: text
+      label: 'Message'
+
+action.configuration.desactivar_personalizacion_action:
+  type: mapping
+  label: 'Desactivar Personalización'
+  mapping:
+    status:
+      type: bool
+      label: 'Status'
+    message:
+      type: text
+      label: 'Message'

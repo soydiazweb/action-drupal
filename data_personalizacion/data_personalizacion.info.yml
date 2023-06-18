@@ -1,0 +1,9 @@
+name: 'Action Personalización'
+type: module
+description: 'Custom action for media module'
+package: SoyDiaz
+core_version_requirement: ^8 || ^9
+dependencies:
+  - media:media
+  - drupal:action
+version: '8.x-1.0'

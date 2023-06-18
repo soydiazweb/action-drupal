@@ -1,0 +1,6 @@
+id: activar_personalizacion
+label: 'Activar Personalización'
+status: true
+langcode: en
+type: media
+plugin: activar_personalizacion_action

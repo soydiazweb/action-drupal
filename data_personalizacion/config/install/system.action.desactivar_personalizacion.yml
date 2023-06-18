@@ -1,0 +1,6 @@
+id: desactivar_personalizacion
+label: 'Desactivar Personalización'
+status: true
+langcode: en
+type: media
+plugin: desactivar_personalizacion_action
